@@ -5,6 +5,9 @@
 
 module load java8
 
+
+################# TRIMMING ################# 
+
 # Trimmomatic tool
 TRIMM=dir/to/tools/Trimmomatic-0.39/trimmomatic-0.39.jar
 # Illumina adapters used
