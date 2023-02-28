@@ -11,4 +11,5 @@ This repository contains scripts regarding:
 7) finding callable genomic sites
 8) preparing variants for DNMF filter
 9) hard filtering of candidates (edit to change DP values)
+
 Positions 6th, 7th and 8th are original Python scripts.
