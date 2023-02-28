@@ -14,4 +14,5 @@ This repository contains scripts regarding:
 10) heterozygosity in family
 11) BAMSurgeon simulation (FNR)
 
-Note that some scripts need to be edited to change DP thresholds, individuals' positions in the VCF files, header length.
+Note that some scripts need to be edited to change your DP thresholds, individuals' positions in the VCF files, header length.
+For help or comments, contact: k.burda[a]amu.edu.pl
