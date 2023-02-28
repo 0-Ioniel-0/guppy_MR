@@ -11,5 +11,7 @@ This repository contains scripts regarding:
 7) finding callable genomic sites
 8) preparing variants for DNMF filter
 9) hard filtering of candidates
+10) heterozygosity in family
+11) BAMSurgeon simulation (FNR)
 
 Note that some scripts need to be edited to change DP thresholds and individuals' positions in the VCF files (also header length in some cases).
