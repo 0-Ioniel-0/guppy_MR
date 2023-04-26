@@ -14,7 +14,10 @@ This repository contains scripts regarding:
 10) heterozygosity in family
 11) BAMSurgeon simulation (FNR)
 
-Note that some scripts need to be edited to change your DP thresholds, individuals' positions in the VCF files, header length.
+The scripts were run on the Poznan Supercomputing and Networking Center cluster, using SLURM job scheduler. Some programs were preinsatlled on the cluster and load as modules.
+
+Note that most of the scripts need to be edited to change paths to files and programs. DP thresholds, individuals' positions in the VCF files, header length etc. should also be modified accordingly.
+
 For help or comments, contact: k.burda[a]amu.edu.pl
 
 
