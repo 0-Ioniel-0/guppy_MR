@@ -1,4 +1,4 @@
-<p style="font-size:20px;">guppy_MutationRateEstimation</p>
+<p style="font-size:20px;">Guppy Mutation Rate Estimation</p>
 Repository for all scripts used to estimate guppy (Poecilia reticulata) mutation rate.
 
 This repository contains scripts regarding:
