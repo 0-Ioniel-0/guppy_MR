@@ -1,7 +1,7 @@
-<p style="font-size:20px;">Guppy Mutation Rate Estimation</p>
-Repository for all scripts used to estimate guppy (Poecilia reticulata) mutation rate.
+# Guppy Mutation Rate Estimation
+Repository for all scripts used to estimate guppy (*Poecilia reticulata*) mutation rate.
 
-This repository contains scripts regarding:
+## This repository contains scripts regarding:
 1) reads trimming
 2) reads alignment
 3) bam files manipulation
@@ -14,13 +14,24 @@ This repository contains scripts regarding:
 11) BAMSurgeon simulation (False Negative Rate estimation)
 and more..
 
-For details on the workflow of this project, please look into flow_chart.pdf figure.
+!!! For details on the workflow of this project, please look into ***flow_chart.pdf*** figure. !!!
 
-The scripts were run on the Poznan Supercomputing and Networking Center cluster, using SLURM job scheduler. Some programs were preinsatlled on the cluster and load as modules.
+<sub>Note that most of the scripts need to be edited to change paths to files and programs. DP thresholds, number of individuals, individuals' positions in the VCF files etc. should also be modified accordingly. An sample VCF file is provided. <sub>
 
-Note that most of the scripts need to be edited to change paths to files and programs. DP thresholds, number of individuals, individuals' positions in the VCF files etc. should also be modified accordingly.
+### These scripts were run with:
+  - Python (3.5)
+  - FastQC (0.11.8)
+  - Trimmomatic (0.39)
+  - bwa (0.7.10)
+  - samtools (1.6.0)
+  - bcftools (1.9)
+  - gatk (4.1.4.1)
+  - vcftools (0.1.14)
+  - DNMFilter (0.1.1)
+  - bedtools (2.27.1)
+  - BAMSurgeon (1.4.1)
+  - PSMC (0.6.5)
+  - GenMap (1.3.0)
+  - RepeatMasker ()
 
-To run these scripts you will need:
-
-
-For help or comments, contact: k.burda[a]amu.edu.pl
+<sub>For help or comments, contact: k.burda[a]amu.edu.pl<sub>
