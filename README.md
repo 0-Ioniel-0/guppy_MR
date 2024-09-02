@@ -16,7 +16,7 @@ and more..
 
 !!! For details on the workflow of this project, please look into ***flowchart.png*** figure. !!!
 
-<sub>Note that most of the scripts need to be edited to change paths to files and programs. DP thresholds, number of individuals, individuals' positions in the VCF files etc. should also be modified accordingly. An sample VCF file is provided. <sub>
+<sub>Note that most of the scripts need to be edited to change paths to files and programs. DP thresholds, number of individuals, individuals' positions in the VCF files etc. should also be modified accordingly. A sample VCF file is provided. <sub>
 
 ### These scripts were run with:
   - Python (3.5)
